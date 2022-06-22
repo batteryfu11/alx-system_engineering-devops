@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -f -l /alx-system_engineering/0x00-shell_basics/
